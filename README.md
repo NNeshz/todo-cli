@@ -1,16 +1,16 @@
-# TODO APP IN CLI
+# ✅ TODO APP IN CLI
 
-## Description
+## Description 🖋️
 
 This is a simple todo app in CLI. It is written in Golang and uses a JSON file to store the tasks.
 
-## Demo
+## Demo 📽️
 
 https://github.com/user-attachments/assets/f0611ce1-010f-48aa-bbaa-23dc80443e04
 
-## Installation
+## Installation 🚧
 
-### Setup
+### Setup 💻
 
 To set up the project, follow these steps:
 
@@ -45,7 +45,7 @@ To set up the project, follow these steps:
 
 Now you have successfully set up the todo app in your CLI. Enjoy managing your tasks!
 
-### Usage
+### Usage 🤔
 
 To use the todo app, you can run the following commands:
 
