@@ -40,3 +40,28 @@ To set up the project, follow these steps:
    ```
 
 Now you have successfully set up the todo app in your CLI. Enjoy managing your tasks!
+
+### Usage
+
+To use the todo app, you can run the following commands:
+
+- To add a task:
+  ```
+  ./todo -add "Task description"
+  ```
+- To list all tasks:
+  ```
+  ./todo -list
+  ```
+- To complete a task:
+  ```
+  ./todo -mark <task-id int>
+  ```
+- To delete a task:
+  ```
+  ./todo -delete <task-id int>
+  ```
+- To clear all tasks:
+  ```
+  ./todo -deleteall
+  ```
