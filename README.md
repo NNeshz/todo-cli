@@ -4,6 +4,10 @@
 
 This is a simple todo app in CLI. It is written in Golang and uses a JSON file to store the tasks.
 
+## Demo
+
+https://github.com/user-attachments/assets/f0611ce1-010f-48aa-bbaa-23dc80443e04
+
 ## Installation
 
 ### Setup
